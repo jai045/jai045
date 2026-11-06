@@ -101,7 +101,7 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 - Managed 10,000+ records with real-time validation.
 - Implemented secure API endpoints, input validation, and query optimization.
 
-**Repository:** Add GitHub repository link
+**Repository: https://github.com/jai045/coursescope** Add GitHub repository link
 
 ---
 
@@ -114,7 +114,7 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 - Applied data analytics and machine learning techniques to housing market forecasting.
 - Collaborated with a team of four using Git/GitHub version control and structured code reviews.
 
-**Repository:** Add GitHub repository link
+**Repository: https://github.com/uic-ds-fall2025/class-project-data5ive** 
 
 ---
 
