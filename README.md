@@ -52,6 +52,22 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 
 ## Professional Experience
 
+### Insight Enterprises
+
+**Enterprise Project Manager**
+
+*March 2026 – Present*
+
+- Manage technology deployment and hardware lifecycle projects across 10+ assigned private enterprise client accounts, overseeing requests from initial intake through fulfillment, deployment, retrieval, and project closure.
+
+- Coordinate end-to-end hardware deployment initiatives, including new-hire equipment requests, device provisioning, configuration, warehouse fulfillment, packaging, and shipment.
+
+- Oversee hardware retrievals, refresh cycles, hot-swap replacements, and equipment exchanges to maintain operational continuity and minimize end-user downtime.
+
+- Manage client requests and project workflows across ServiceNow and Freshdesk, monitoring ticket progress, maintaining documentation, and ensuring requests advance through the appropriate fulfillment stages.
+
+- Coordinate order processing and operational updates between client service platforms and SAP, maintaining accurate records of hardware requests, order statuses, and fulfillment activities.
+
 ### University of Illinois Chicago (UIC)
 
 **IT Support Specialist II – Technology Solutions**
