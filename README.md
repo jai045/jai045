@@ -52,11 +52,22 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 
 ## Professional Experience
 
+### Oakton Community College
+**Endpoint Systems Administrator**  
+*Des Plaines, Illinois | November 2026 – Present*
+
+- Support and maintain endpoint systems across the college, assisting faculty and staff with hardware, software, access, and connectivity issues.
+- Troubleshoot Windows devices, Microsoft 365, account access, MFA, and campus technology.
+- Manage IT service requests, document resolutions, and coordinate escalations to maintain reliable technology operations.
+- Assist with endpoint deployments, software installations, updates, and device lifecycle support.
+
+Technologies & Skills: Windows | macOS | Microsoft 365 | Active Directory | Microsoft Entra ID | MFA | LMS | SIS | Service Desk | ITSM | Hardware Troubleshooting | Networking | Audio/Visual Support | Incident Management
+
 ### Insight Enterprises
 
 **Enterprise Project Manager**
 
-*March 2026 – Present*
+*Summer 2026*
 
 - Manage technology deployment and hardware lifecycle projects across 10+ assigned private enterprise client accounts, overseeing requests from initial intake through fulfillment, deployment, retrieval, and project closure.
 
