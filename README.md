@@ -53,8 +53,8 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 ## Professional Experience
 
 ### Oakton Community College
-**Endpoint Systems Administrator**  
-*Des Plaines, Illinois | November 2026 – Present*
+**Endpoint Systems Admin - IT HELPDESK**  
+*Des Plaines, Illinois | October 2026 – Present*
 
 - Support and maintain endpoint systems across the college, assisting faculty and staff with hardware, software, access, and connectivity issues.
 - Troubleshoot Windows devices, Microsoft 365, account access, MFA, and campus technology.
