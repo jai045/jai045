@@ -125,7 +125,7 @@ Technologies & Skills: Windows | macOS | Microsoft 365 | Active Directory | Micr
 - Applied data analytics and machine learning techniques to housing market forecasting.
 - Collaborated with a team of four using Git/GitHub version control and structured code reviews.
 
-**Repository: https://github.com/uic-ds-fall2025/class-project-data5ive** 
+**Repository: https://github.com/jai045/Beyond-the-Skyline.git** 
 
 ---
 
