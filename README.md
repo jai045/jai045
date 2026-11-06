@@ -101,7 +101,7 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 - Managed 10,000+ records with real-time validation.
 - Implemented secure API endpoints, input validation, and query optimization.
 
-**Repository: https://github.com/jai045/coursescope** Add GitHub repository link
+**Repository: https://github.com/jai045/coursescope**
 
 ---
 
