@@ -1,50 +1,62 @@
 # Hi, I'm Jainil Patel 👋
 
-### Computer Science Graduate | Enterprise IT | IT Infrastructure | Software Engineering
+### Computer Science Graduate | Endpoint Systems Administration | Enterprise IT | Networking
 
 ---
 
 ## About Me
 
-- 🎓 Computer Science graduate from the **University of Illinois Chicago (UIC)**, with a concentration in Software Engineering.
-- 💻 4+ years of experience supporting enterprise and hospital IT environments, serving **500+ end users**.
-- 🖥️ Experienced in enterprise endpoint management, Apple/macOS support, infrastructure deployments, networking, and incident management.
-- 🔧 Interested in enterprise infrastructure, systems administration, cybersecurity, and IT automation.
-- 🚀 Built full-stack applications, data processing pipelines, and cloud-hosted software solutions.
-- 📍 Based in Chicago, Illinois | Willing to Relocate.
+- 🎓 B.S. in Computer Science, Software Engineering — University of Illinois Chicago.
+- 💻 Experience supporting enterprise and higher-education IT environments serving **1,500+ end users**.
+- 🖥️ Focused on endpoint management, systems administration, enterprise networking, and cybersecurity.
+- 🔧 Interested in understanding how technology works behind the scenes — from individual endpoints to enterprise infrastructure.
+- 📍 Chicago, Illinois | Open to Relocation.
+
+---
+
+## 🧪 The Lab: Learning Beyond the Job
+
+I believe the best way to understand technology is to get hands-on with it. Outside of my day-to-day IT work, I regularly explore new technologies, build lab environments, and challenge myself to understand how enterprise systems operate.
+
+**What I'm currently exploring:**
+
+- 🌐 **Enterprise Networking:** Building Cisco networking labs, configuring VLANs and switch ports, examining MAC address tables, and learning how devices communicate across networks.
+- 🔐 **Cybersecurity:** Strengthening my understanding of network security, endpoint protection, access control, authentication, and security fundamentals.
+- 🖥️ **Systems Administration:** Exploring Windows environments, Active Directory, Microsoft Entra ID, endpoint management, and device deployment.
+- ☁️ **Cloud & Infrastructure:** Expanding my knowledge of Microsoft Azure, cloud services, and enterprise infrastructure.
+- ⚙️ **Automation:** Exploring ways to reduce repetitive IT tasks through scripting, Python, JavaScript, and workflow automation.
+
+**My approach to staying current:** Hands-on labs, technical documentation, vendor resources, security updates, and experimenting with technologies beyond what I use at work.
+
+I'm always curious about how things work, why they fail, and how they can be made better.
 
 ---
 
 ## Technical Skills
 
-**Programming & Development:**
+**Systems & Endpoint Management:**  
+Windows, macOS, Linux, Microsoft Intune, Microsoft Entra ID, Active Directory, Jamf
 
+**Networking & Security:**  
+Cisco Networking, CCNA Concepts, TCP/IP, VLANs, DNS, DHCP, Network Troubleshooting, Endpoint Security, IAM
+
+**Programming & Automation:**  
 Python, JavaScript, SQL, React, REST APIs, HTML, CSS
 
-**Cloud & Databases:**
-
+**Cloud & Databases:**  
 Microsoft Azure, AWS, PostgreSQL, Database Management
 
-**Systems & Infrastructure:**
-
-Windows, macOS, Linux, Microsoft Intune, Microsoft Entra ID, Jamf, Active Directory
-
-**Networking & Security:**
-
-Cisco Networking, TCP/IP, DNS, DHCP, Network Troubleshooting, Endpoint Security, Identity & Access Management
-
-**IT Operations & Tools:**
-
-TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Lifecycle Management
+**IT Operations:**  
+TeamDynamix, ServiceNow, Freshdesk, SAP, ITSM, Incident Management, SLA Management, Hardware Lifecycle Management
 
 ---
 
 ## Certifications
 
+- Cisco CCNA
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
-- Cisco CCNA
 - Microsoft Azure Fundamentals
 - Google Cybersecurity Professional Certificate
 
@@ -53,79 +65,61 @@ TeamDynamix, ITSM, Incident Management, SLA Management, Git, GitHub, Hardware Li
 ## Professional Experience
 
 ### Oakton Community College
-**Endpoint Systems Admin - IT HELPDESK**  
+**Endpoint Systems Administrator**  
 *Des Plaines, Illinois | October 2026 – Present*
 
-- Support and maintain endpoint systems across the college, assisting faculty and staff with hardware, software, access, and connectivity issues.
-- Troubleshoot Windows devices, Microsoft 365, account access, MFA, and campus technology.
-- Manage IT service requests, document resolutions, and coordinate escalations to maintain reliable technology operations.
-- Assist with endpoint deployments, software installations, updates, and device lifecycle support.
-
-Technologies & Skills: Windows | macOS | Microsoft 365 | Active Directory | Microsoft Entra ID | MFA | LMS | SIS | Service Desk | ITSM | Hardware Troubleshooting | Networking | Audio/Visual Support | Incident Management
+- Support endpoint systems and technology services across the college.
+- Troubleshoot Windows devices, Microsoft 365, user access, MFA, hardware, and network connectivity.
+- Support device deployments, software installations, updates, and endpoint lifecycle operations.
+- Manage service requests, document resolutions, and coordinate technical escalations.
 
 ### Insight Enterprises
-
-**Enterprise Project Manager**
-
+**Enterprise Project Manager**  
 *Summer 2026*
 
-- Manage technology deployment and hardware lifecycle projects across 10+ assigned private enterprise client accounts, overseeing requests from initial intake through fulfillment, deployment, retrieval, and project closure.
-
-- Coordinate end-to-end hardware deployment initiatives, including new-hire equipment requests, device provisioning, configuration, warehouse fulfillment, packaging, and shipment.
-
-- Oversee hardware retrievals, refresh cycles, hot-swap replacements, and equipment exchanges to maintain operational continuity and minimize end-user downtime.
-
-- Manage client requests and project workflows across ServiceNow and Freshdesk, monitoring ticket progress, maintaining documentation, and ensuring requests advance through the appropriate fulfillment stages.
-
-- Coordinate order processing and operational updates between client service platforms and SAP, maintaining accurate records of hardware requests, order statuses, and fulfillment activities.
+- Coordinate technology deployment and hardware lifecycle projects across **10+ enterprise client accounts**.
+- Manage end-to-end equipment fulfillment, including new-hire requests, device provisioning, configuration, shipping, retrievals, and replacements.
+- Track client requests across ServiceNow and Freshdesk while coordinating order and fulfillment updates in SAP.
+- Oversee hardware refreshes, hot swaps, and equipment exchanges to support business continuity.
 
 ### University of Illinois Chicago (UIC)
 
-**IT Support Specialist II – Technology Solutions**
-
+**IT Support Specialist II – Technology Solutions**  
 *March 2024 – March 2026*
 
-- Supported enterprise applications and distributed IT systems across environments serving 500+ end users.
-- Investigated production incidents, performed root-cause analysis, and resolved escalated technical issues.
-- Supported system upgrades, configuration changes, testing, validation, and technology deployments.
-- Maintained technical documentation, troubleshooting procedures, and knowledge-base articles.
+- Supported enterprise applications and IT systems serving **500+ end users**.
+- Investigated escalated incidents, performed root-cause analysis, and resolved technical issues.
+- Supported system upgrades, deployments, testing, and configuration changes.
+- Created technical documentation and troubleshooting procedures.
 
-**IT Computer Specialist I – Learning Technology Solutions**
-
+**IT Computer Specialist I – Learning Technology Solutions**  
 *May 2022 – February 2024*
 
-- Provided technical support for hospital teams and regional stakeholders.
-- Supported technology deployments, infrastructure upgrades, and new site openings.
-- Configured and troubleshot Apple devices, macOS systems, peripherals, and network connectivity.
-- Coordinated with IT teams, vendors, and hospital leadership on technology projects and escalations.
+- Delivered technical support for hospital teams and regional stakeholders.
+- Supported infrastructure upgrades, technology deployments, and new site openings.
+- Configured and troubleshot Apple devices, macOS, peripherals, and network connectivity.
+- Coordinated with IT teams, vendors, and leadership on technology projects.
 
 ---
 
 ## Featured Projects
 
 ### CourseScope – Full-Stack Web Application
-
 *React | Python | REST APIs | PostgreSQL | AWS*
 
-- Designed and deployed a cloud-hosted full-stack application.
-- Developed a Python REST API backend connected to a PostgreSQL database.
-- Managed 10,000+ records with real-time validation.
-- Implemented secure API endpoints, input validation, and query optimization.
+- Built a cloud-hosted full-stack application with a Python REST API and PostgreSQL backend.
+- Worked with **10,000+ records**, implementing validation, secure API access, and query optimization.
 
-**Repository: https://github.com/jai045/coursescope**
+[View Repository](https://github.com/jai045/coursescope)
 
----
+### Housing Market Forecasting – Data Analytics
+*Python | pandas | scikit-learn | Git*
 
-### Housing Market Forecasting – Data Analytics Application
+- Built data processing workflows handling **15,000+ records** from external APIs.
+- Implemented ETL processes, data validation, and machine learning techniques for housing market analysis.
+- Collaborated with a four-person team using GitHub and code reviews.
 
-*Python | pandas | scikit-learn | Git | GitHub*
-
-- Developed a data processing pipeline handling 15,000+ records from external APIs.
-- Implemented ETL workflows and data-integrity validation.
-- Applied data analytics and machine learning techniques to housing market forecasting.
-- Collaborated with a team of four using Git/GitHub version control and structured code reviews.
-
-**Repository: https://github.com/jai045/Beyond-the-Skyline.git** 
+[View Repository](https://github.com/jai045/Beyond-the-Skyline)
 
 ---
 
@@ -137,4 +131,4 @@ Technologies & Skills: Windows | macOS | Microsoft 365 | Active Directory | Micr
 
 ---
 
-⭐ Always interested in learning new technologies, building useful software, and exploring enterprise IT infrastructure.
+⭐ *Always learning. Always building. Always troubleshooting something.*
